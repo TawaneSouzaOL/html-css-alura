@@ -1,0 +1,18 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+strong {
+    color: #EF1414;
+}
+
+p{
+    font-weight: bold;
+}
+
+a {
+    color: #EF1414;
+    border: 1px solid #EF1414;
+    padding: 10px;
+}
